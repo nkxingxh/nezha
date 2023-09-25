@@ -305,7 +305,9 @@ func (ma *memberAPI) addOrEditServer(c *gin.Context) {
 		s.Note = sf.Note
 		s.HideForGuest = sf.HideForGuest == "on"
 		if s.ID == 0 {
-			s.Secret, err = utils.GenerateRandomString(18)
+			if len(s.Secret) == 0 {
+				s.Secret, err = utils.GenerateRandomString(18)
+			}
 			if err == nil {
 				err = singleton.DB.Create(&s).Error
 			}

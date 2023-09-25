@@ -1,4 +1,4 @@
-name: Dashboard image
+name: Dashboard build
 
 on:
   workflow_run:

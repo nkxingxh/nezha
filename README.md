@@ -81,11 +81,14 @@ You can change the dashboard language in the settings page (`/setting`) after th
 <a href="https://github.com/spiritLHLS" title="spiritlhl">
   <img src="https://avatars.githubusercontent.com/u/103393591?v=4" width="50;" alt="spiritlhl"/>
 </a>
+<a href="https://github.com/nkxingxh" title="NKXingXh">
+  <img src="https://avatars.githubusercontent.com/u/25559053?v=4" width="50;" alt="NKXingXh"/>
+</a>
 <a href="https://github.com/rootmelo92118" title="rootmelo92118">
   <img src="https://avatars.githubusercontent.com/u/32770959?v=4" width="50;" alt="rootmelo92118"/>
 </a>
-<a href="https://github.com/1ridic" title="iridiumR">
-  <img src="https://avatars.githubusercontent.com/u/88495501?v=4" width="50;" alt="iridiumR"/>
+<a href="https://github.com/1ridic" title="1ridic">
+  <img src="https://avatars.githubusercontent.com/u/88495501?v=4" width="50;" alt="1ridic"/>
 </a>
 <a href="https://github.com/coreff" title="Core F">
   <img src="https://avatars.githubusercontent.com/u/38347122?v=4" width="50;" alt="Core F"/>

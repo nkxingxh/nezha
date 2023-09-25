@@ -28,6 +28,7 @@ func (ma *memberAPI) serve() {
 	mr.Use(mygin.Authorize(mygin.AuthorizeOption{
 		Member:   true,
 		IsPage:   false,
+		AllowAPI: true,
 		Msg:      "访问此接口需要登录",
 		Btn:      "点此登录",
 		Redirect: "/login",
